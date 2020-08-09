@@ -7,7 +7,7 @@ that runs on Windows, Mac, and Linux. It features built-in support for a variety
 languages as well as extensions for languages such as Python.
 
 Follow this guide to acquire, install, and configure VS Code as a Python source code editor. The
-guide assumes that you have previously installed Python 3.x.
+guide assumes that you have previously [installed](mac-install-pysf_python.md) Python 3.x.
 
 * <a href="#vscode">1.0 Download and install Visual Studio Code</a>
 * <a href="#extensions">2.0 Add Visual Studio Code extensions</a>
