@@ -62,8 +62,7 @@ In this problem, you will use the `weeks_list` that you created in problem 03.
 ## 5.0 Problem 05 (20 points)
 
 1. Use a formatted string literal (f-string) to generate a string named `most_tests` that summarizes
-   the weekly start date, number of tests performed, and number of positive cases detected over the
-   last five weeks.
+   the weekly start date, number of tests performed, and number of positive cases detected for the week that saw the highest number of tests conducted over the last five weeks.
 
    The value assigned to `most_tests` _must_ implement the following text format:
 
