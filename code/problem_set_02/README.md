@@ -20,7 +20,7 @@ weekly. We provide a list of positive cases named `cases`.
    named `cases_latest`.
 
 2. Assume an error exists in the data. The first element of `cases` is actually **9** instead of
-   **11**. Please update the list with correct value using `list.index()`.
+   **11**. Please update the list with correct value using list indexing.
 
 ## 2.0 Problem 02 (20 points)
 
