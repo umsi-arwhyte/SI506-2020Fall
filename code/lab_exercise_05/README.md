@@ -34,6 +34,8 @@ win percentage.
 Calculate the total wins and losses from 2000-2019 and find the win percentage for all years. Assign
 the win percentage to  `record_win_percent`.
 
+:bulb: loop over `record` and save the total wins to a variable named `record_wins` and the total losses to a variable named `record_losses`
+
 ## 4.0 Problem 04 (5 Points)
 
 Write two functions to identify the best year and worst year. The function `calculate_best_year` will
