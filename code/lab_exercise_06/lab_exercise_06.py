@@ -39,7 +39,7 @@ def main():
     # Call < blue_shell() > and assign to < blue_shell_players >
     # print(f'Player positions after blue shell: {blue_shell_players}') ## Uncomment when ready!
 
-    # Add new character tuple to < new_mario_kart_game >
+    # Insert the new character tuple as the first element of < new_mario_kart_game >
     # print(f'Updated new game: {new_mario_kart_game}') ## Uncomment when ready!
 
     # Call < top_three() > and assign to top_three_players

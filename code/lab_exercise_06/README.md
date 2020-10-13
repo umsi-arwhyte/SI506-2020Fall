@@ -59,8 +59,15 @@ another tuple with the character, "Bowser", who has 60 points in the game.
 
 ## 4.0 Problem 04 (5 Points)
 
-Create a function `top_three()` that returns the top three players from `new_mario_kart_game` in
-order first place with highest points to third place. The function `top_three()` will take in a list of tuples as a parameter.
+Create a function `top_three()` that returns a list of the top three players' names from `new_mario_kart_game` The function `top_three()` will take in a list of tuples as a parameter.
+
+An example of how  `top_three()` works
+
+```python
+mario_kart= [('Donkey Kong', 45), ('Mario', 30), ('Yoshi', 22), ('Wario', 20)]
+top_three(mario_kart) 
+# should return ['Donkey Kong', 'Mario', 'Yoshi']
+``` 
 
 In `main()`, call the function `top_three()` and assign the return value to the variable
 `top_three_players`.
