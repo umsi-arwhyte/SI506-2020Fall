@@ -44,7 +44,7 @@ The `read_csv_file` function will alter that file to be structured like this:
 
 ## 2.0 Problem 02 (5 Points)
 
-Implement the `hci_database_links()` function.
+Implement the `hci_database_urls()` function.
 
 This function takes a list of library data (e.g. the return from `read_csv_file()`),
 and returns a new dictionary of databases only in the `Human Computer Interaction` (HCI) category.
@@ -52,8 +52,7 @@ The output dictionary should have the format:
 
 ```python
 {
-    "Database": Name of HCI Database
-    "Link": https://app.lib.umich.edu.hcinumber
+    Name of HCI Database: Permanent Link
 }
 ```
 
