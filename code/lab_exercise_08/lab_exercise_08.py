@@ -4,13 +4,14 @@ import csv
 print('Lab Exercise 08 \n')
 
 # PROBLEM 1 (5 Points)
-def read_csv_file(input_filepath):
+def read_csv_file(input_filepath, delimiter=','):
     """
     This function reads a .csv file and parses it into a list of dictionaries,
     where each dictionary is formed from the data on one line of the .csv file.
 
     Parameters:
         filepath (str): The location of the file to read and parse.
+        delimiter (str): delimiter that overrides the default
 
     Returns:
         list: A list of dictionaries, where each dictionary is one row from the
