@@ -35,7 +35,7 @@ Implement the method, `__str__()`, of the `Country` class.
 
 The return value must adhere to the following format:
 ```
-<name> (<code>) emitted <meat_co2_emission_per_capita> kg CO2 caused by meat consumption per capita and <meat_co2_emission_total> kg in total
+<name> (<code>) emitted <meat_co2_emission_per_capita> kg co2 caused by meat consumption per capita and <meat_co2_emission_total> kg in total
 ```
 
 ## 3.0 Problem 03 (20 Points)
