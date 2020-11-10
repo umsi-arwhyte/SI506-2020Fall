@@ -13,7 +13,7 @@ In this problem, you will:
 Instance Variables:
 
 * `name` (string): Name of the Dog for the instance.
-* `age` (float): Age od the Dog for the instance.
+* `age` (int): Age of the Dog for the instance.
 
 The constructor will take the following arguments:
 
